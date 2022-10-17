@@ -7,10 +7,7 @@
     android:background="@drawable/belle"
     tools:context=".MainActivity">
 
-    <ImageButton
-
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+   
 
     <!--Edittext for getting users phone number-->
 
